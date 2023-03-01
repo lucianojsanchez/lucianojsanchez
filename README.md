@@ -1,16 +1,17 @@
-### Hi there 👋
+Luciano Sanchez
+✨ Sobre Mi
+Desarrollador web Full Stack de Tucumán, Argentina con pasión por la tecnología. Graduado de SoyHenry y en constante aprendizaje. Actualmente tomando un curso de Java. Comprometido con el desarrollo web y siempre buscando mejorar.
 
-<!--
-**brook3n/brook3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🛠 Habilidades
+🎨 Frontend
+html5 javascript css3 react tailwind redux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📦 Backend
+Nodejs Express
+
+🗃 DataBase
+Sequelize PostgreSQL MongoDB
+
+Otros
+Scrum Github Git
