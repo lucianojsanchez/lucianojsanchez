@@ -18,8 +18,6 @@ Siempre he sido apasionado por el mundo de la tecnología, y descubrí mi inter�
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="Nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="40" height="40"/> </a>
 
-
-LinkedIn
-Twitter
-Correo electrónico
+### 📞 Contacto
+<a href="https://www.linkedin.com/in/luciano-joel-sanchez-34562b232/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Express" width="40" height="40"/> </a>
 ¡Espero poder conectarme contigo pronto!
