@@ -34,6 +34,7 @@ Siempre he sido apasionado por el mundo de la tecnología, y descubrí mi inter�
 
 ## 📫 Contacto
 
-- LinkedIn: https://www.linkedin.com/in/luciano-joel-sanchez-34562b232/
+- LinkedIn: https://www.linkedin.com/in/lucianojsanchez/
+- Email: lucianojsanchez@gmail.com
 
 Espero poder ponerme en contacto contigo pronto!
