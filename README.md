@@ -12,7 +12,7 @@ Siempre he sido apasionado por el mundo de la tecnología, y descubrí mi inter�
 
 - HTML5
 - CSS3
-- JavaScript
+- Typescript
 - React
 - Bulma
 - Redux
@@ -20,11 +20,13 @@ Siempre he sido apasionado por el mundo de la tecnología, y descubrí mi inter�
 - Sass
 - Font Awesome
 - React Icons
+- Tailwind CSS
 
 ### BackEnd
 
 - Node.js
 - Express
+- MongoDB
 
 ### Herramientas
 
@@ -38,3 +40,14 @@ Siempre he sido apasionado por el mundo de la tecnología, y descubrí mi inter�
 - Email: lucianojsanchez@gmail.com
 
 Espero poder ponerme en contacto contigo pronto!
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianojsanchez&show_icons=true&locale=en&layout=compact" alt="lucianojsanchez" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianojsanchez&show_icons=true&locale=en" alt="lucianojsanchez" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianojsanchez&" alt="lucianojsanchez" /></p>
+
+
+
+
