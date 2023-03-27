@@ -25,6 +25,8 @@ Siempre he sido apasionado por el mundo de la tecnología, y descubrí mi inter�
 ### BackEnd
 
 - Node.js
+- Sequelize
+- PostgreSQL
 - Express
 - MongoDB
 
@@ -33,6 +35,7 @@ Siempre he sido apasionado por el mundo de la tecnología, y descubrí mi inter�
 - Vite
 - PNPM
 - Vercel
+- Render
 
 ## 📫 Contacto
 
