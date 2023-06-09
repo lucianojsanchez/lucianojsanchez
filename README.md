@@ -11,6 +11,7 @@ Siempre he sido apasionado por el mundo de la tecnología, y descubrí mi inter�
 ### FrontEnd
 
 - HTML5
+- NextJS
 - CSS3
 - Typescript
 - React
@@ -21,6 +22,7 @@ Siempre he sido apasionado por el mundo de la tecnología, y descubrí mi inter�
 - Font Awesome
 - React Icons
 - Tailwind CSS
+- Prisma
 
 ### BackEnd
 
@@ -29,6 +31,7 @@ Siempre he sido apasionado por el mundo de la tecnología, y descubrí mi inter�
 - PostgreSQL
 - Express
 - MongoDB
+- GraphQL
 
 ### Herramientas
 
