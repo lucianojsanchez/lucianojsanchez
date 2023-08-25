@@ -17,10 +17,6 @@ Siempre he sido apasionado por el mundo de la tecnología, y descubrí mi inter�
 - React
 - Bulma
 - Redux
-- Framer Motion
-- Sass
-- Font Awesome
-- React Icons
 - Tailwind CSS
 - Prisma
 
@@ -32,13 +28,6 @@ Siempre he sido apasionado por el mundo de la tecnología, y descubrí mi inter�
 - Express
 - MongoDB
 - GraphQL
-
-### Herramientas
-
-- Vite
-- PNPM
-- Vercel
-- Render
 
 ## 📫 Contacto
 
