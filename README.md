@@ -4,4 +4,4 @@ Full Stack Web Developer from Tucumán, Argentina. Currently working with Vue.js
 
 ## Contact  
 - [LinkedIn](https://www.linkedin.com/in/lucianojsanchez/)  
-- lucianojsanchez@gmail.com
+- lucianojoelsanchez@gmail.com
